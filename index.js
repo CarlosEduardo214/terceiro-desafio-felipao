@@ -24,7 +24,7 @@ class heroi {
 
 //Criando instâncias e chamando o método atacar
 const herois = [
-    new heroi("Eduardo", 45, "ninja"),
+    new heroi("Carlos", 45, "monge"),
 ];
 
 herois.forEach(heroi => heroi.atacar());
